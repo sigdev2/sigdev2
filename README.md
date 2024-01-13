@@ -5,7 +5,7 @@
 
 ## Tools
 
- - <a href="http://sigdev2.github.io/js.html/">JavaScript playground</a>
+ - <a href="http://sigdev2.github.io/js.html/" target="__blank">JavaScript playground</a>
 
 ## About me 👋
 - 🔭 I'm currently working ...
