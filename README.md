@@ -6,6 +6,7 @@
 ## Tools
 
  - <a href="http://sigdev2.github.io/js.html/" target="_blank">JavaScript playground</a>
+ - <a href="https://sigdev2.github.io/BugPress/index.html">Kill your bugs</a>
 
 ## About me 👋
 - 🔭 I'm currently working ...
